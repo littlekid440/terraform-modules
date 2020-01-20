@@ -1,5 +1,4 @@
 .terraform
 *.tfstate
 *.tfstate.backup
-data-stores/*
-data-stores/mysql/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.45.0_x4
+.DS_Store
